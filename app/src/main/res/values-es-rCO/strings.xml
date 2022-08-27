@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi primera app</string>
+    <string name="bienvenidos">Bienvenidos</string>
+    <string name="Linux">Imagen linux</string>
+    <string name="Registro">Registro</string>
+</resources>
